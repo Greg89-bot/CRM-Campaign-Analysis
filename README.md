@@ -15,4 +15,4 @@ This project analyzes CRM campaign performance across Email, SMS, and Push chann
 ## Features
 - Channel performance comparison
 - A/B testing (Campaign A vs B)
-- Trend analysis over time
+- Trend analysis over time.
